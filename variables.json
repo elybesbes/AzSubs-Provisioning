@@ -1,0 +1,21 @@
+{
+    "auth":
+    {
+    "tenant_id": "3291162e-c1a9-4ec3-82a8-1a6a5b45eef0",
+    "client_id": "bfc0f4a5-dad7-4845-a1d5-3d7bc4125fbd",
+    "client_secret_value": "bgk8Q~b57IJMhwALJqVY1CwT0gXv-UhuTiTa9bl0"
+    },
+
+    "billing":
+    {
+    "billing_account": "75b00e59-577b-571e-f1d5-0b2ef79b602c:af669293-b002-4a48-a6eb-d3eb9b68abd6_2019-05-31",
+    "billing_profile": "65AY-ZOOE-BG7-PGB",
+    "invoice_section": "QK3W-TQVM-PJA-PGB"
+    },
+
+    "subscription":
+    {
+    "display_name":"",
+    "management_group_name": "Sanboxes"
+    }
+}
